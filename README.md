@@ -26,3 +26,5 @@ The Weather App is a simple web application that allows users to check the weath
 4. The app will display the current temperature, weather description, humidity percentage, and wind speed for the specified location.
 5. If the location is not found, a "Location not found" message and a 404 error image will be displayed.
 
+## Demo
+You can try the QR Code Generator here: [Demo Link](https://sangamprashant.github.io/Weather_App/).
